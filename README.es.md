@@ -1,6 +1,5 @@
 <!-- l10n-sync: source-file="README.md" -->
 # Bingo Mixer
-
 Bingo Mixer es un juego de bingo social para encuentros presenciales. ¡Encuentra personas que coincidan con las preguntas y consigue 5 en línea!
 
 📚 **[Ver Guía del Lab](workshop/es/GUIDE.md)**
@@ -35,7 +34,6 @@ Este repo ya incluye un `.devcontainer/devcontainer.json`.
 - **Publicación en GitHub Pages:** el deploy está configurado para tu propio repositorio.
 
 ## Ejecutar
-
 ```bash
 npm install
 npm run dev
